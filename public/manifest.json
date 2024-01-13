@@ -1,8 +1,7 @@
 {
-  "id": "any_id",
-  "name": "Family Services Planning",
+  "name": "Family Services",
   "short_name": "FSP",
-  "description":"Mon planning Family Services",
+  "description":"Mon suivi planning Family Services",
   "icons": [
     {
       "src": "./logo72x72.png",
