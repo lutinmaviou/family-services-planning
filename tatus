@@ -1,0 +1,23 @@
+[33mcommit 69525c59774db228b50cd8177eacabc07f006b8f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Bertrand Bourion <bertrandbou@hotmail.fr>
+Date:   Fri Jan 19 16:25:44 2024 +0100
+
+    feat: install Prisma
+
+[33mcommit 569bc3c5a6c772886f1973d747107b1b92e08bfc[m
+Author: Bertrand Bourion <bertrandbou@hotmail.fr>
+Date:   Sat Jan 13 14:42:54 2024 +0100
+
+    test mobile iphone SE 2020 size in deployement
+
+[33mcommit 3b5d052e6419649fd63ca50f0fdce1ecc6981888[m
+Author: Bertrand Bourion <bertrandbou@hotmail.fr>
+Date:   Sat Jan 13 13:49:43 2024 +0100
+
+    first commit: configuration in pwa let's start developping
+
+[33mcommit a790cf29a081a1a5181aef014aae960b5958862f[m
+Author: Bertrand Bourion <bertrandbou@hotmail.fr>
+Date:   Sat Jan 13 12:29:00 2024 +0100
+
+    Initial commit from Create Next App
